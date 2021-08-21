@@ -1,5 +1,4 @@
 ★- 👋 Hi, I’m @TIGER
-★- 👑 my discord user name - TIGER#1234
 ★- 👀 I’m interested in python programming...
 ★- 🌱 I’m currently learning .py
 ★- 💞️ I’m looking to collaborate on idk
