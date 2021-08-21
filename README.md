@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TIGER43211
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in python programming..
+- 🌱 I’m currently learning .py
+- 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me ...
 
 <!---
