@@ -1,7 +1,7 @@
 <h2 align="center">Stats</h2>
 <a href="https://github.com/slow">
   <p align="center">
-    <img src="528" alt="479">
+    <img src="https://komarev.com/ghpvc/?username=TIGER43211" alt="479">
   </p>
 </a>
 
